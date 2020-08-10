@@ -17,6 +17,9 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Haskell" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" />
 
+<br />
+<br />
+
 <img align="left" alt="AnthonyQuantum's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnthonyQuantum&show_icons=true&hide_border=true&count_private=true" />
 
 [Linkedin]: https://linkedin.com/in/AnthonyQuantum
