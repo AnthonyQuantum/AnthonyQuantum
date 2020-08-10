@@ -1,8 +1,8 @@
-# Hello! I'm Anton, aka AnthonyQuantum
+## Hello! I'm Anton, aka AnthonyQuantum
 
-## I'm an SWE Intern @ Intel, DSC UNN Club Lead, BSc student
+### I'm an SWE Intern @ Intel, DSC UNN Club Lead, BSc student
 
-## Connect with me:
+### Connect with me:
 
 [<img align="left" alt="AnthonyQuantum | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 [<img align="left" alt="AnthonyQuantum | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/telegram.svg" />][Telegram]
@@ -17,11 +17,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Haskell" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" />
 
-<br /><br />
-
 ---
-
-<br />
 
 <img align="left" alt="AnthonyQuantum's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnthonyQuantum&show_icons=true&hide_border=true&count_private=true" />
 
