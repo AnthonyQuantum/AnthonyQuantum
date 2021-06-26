@@ -1,6 +1,6 @@
 ## Hello! I'm Anton, aka AnthonyQuantum
 
-### I'm an SWE Intern @ Intel, DSC UNN Club Lead, BSc student
+### I'm an SWE Intern @ Intel, BSc student, ex GDSC Club Lead
 
 ### Connect with me:
 
